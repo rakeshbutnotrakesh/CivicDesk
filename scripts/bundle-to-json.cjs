@@ -11,6 +11,8 @@ const includeFiles = [
   'metadata.json',
   '.env.example',
   '.gitignore',
+  '.npmrc',
+  'vercel.json',
   'README.md',
   'src/main.tsx',
   'src/index.css',
