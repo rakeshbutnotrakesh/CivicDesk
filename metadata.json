@@ -1,0 +1,6 @@
+{
+  "name": "CivicDesk – Local Issue Management System",
+  "description": "CivicDesk is an offline-capable local community issue management system for logging, tracking, and resolving neighborhood infrastructure and civic problems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
